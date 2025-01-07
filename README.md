@@ -14,7 +14,7 @@
 ### 결과물
 3D 애니메이션을 만드는 전반적인 과정을 경험하고, 입체 영상에 대해 이해할 수 있었다.  
 
-
+---
 
 ## Stereoscopic 3D Animation Course (Fall 2023, Junior Year)
 
@@ -30,8 +30,7 @@ The main focus was to produce a racing-themed project that delivers a stereoscop
 ### Outcome
 Gained hands-on experience in the full production process of 3D animation and developed a solid understanding of stereoscopic visuals.  
 
-
-
+---
 
 ## 2023年 3年生 2学期 立体映像授業
 
