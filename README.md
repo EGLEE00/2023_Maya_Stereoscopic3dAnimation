@@ -16,7 +16,7 @@
 
 ---
 
-## Stereoscopic 3D Animation Course (Fall 2023, Junior Year)
+## Stereoscopic 3D Animation Course, Fall 2023 (Junior Year)
 
 ### Project Overview
 This course involved creating a stereoscopic 3D project using Maya, incorporating 3D modeling and animation.  
